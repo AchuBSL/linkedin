@@ -1,0 +1,38 @@
+section{
+    padding: 60px 0;
+}
+
+.hide-div{
+    transition: 2s;
+    display: none;
+
+}
+
+
+#content-topics{
+    background-color:rgba(224, 224, 224, 0.429);
+}
+
+#post-jobs{
+    background-color:rgba(253, 235, 223, 0.458)
+}
+#post-jobs h3{
+    color:rgba(251, 142, 40, 0.744);
+}
+
+
+.h3-width{
+  
+}
+
+
+
+@media (min-width: 992px) {
+    .sec5-p{
+        width: 32vw;
+        transform: translateX(10%);
+    
+    }
+
+    
+}
